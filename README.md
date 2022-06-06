@@ -1,3 +1,6 @@
+````php
+# BY ABANG MIDAN 
+````
 # Metode Login SC
 ````php
 1. Token FB EAAB
@@ -26,7 +29,7 @@ $ pip install requests bs4 futures
 $ pip install cython
 $ rm -rf meta
 $ termux-setup-storage
-$ git clone https://github.com/ROY-ID/meta
+$ https://github.com/midanstl01/midanmeta11
 $ cd meta
 $ git pull
 $ python run.py
